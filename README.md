@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**oz123/oz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: Launching a SaaS
+- 🌱 I’m currently learning:
+ * OCaml
+ * Svelte
+- 👯 I’m looking to collaborate onÖ
+ * You can hire me for projects in Python\Go\JavaScript
+- 🤔 I’m looking for help with: see above
+- 💬 Ask me about: Python
+- 📫 How to reach me: oz that curly sign tiram.it
+- 😄 Pronouns: He
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oz123)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Oz's github stats](https://github-readme-stats.vercel.app/api?username=oz123)](https://github.com/anuraghazra/github-readme-stats)  
