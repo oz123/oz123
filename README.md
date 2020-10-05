@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on: Launching a SaaS
 - 🌱 I’m currently learning:
- * OCaml
- * Svelte
+ 1. OCaml
+ 1. Svelte
 - 👯 I’m looking to collaborate on:
  * You can hire me for projects in Python\Go\JavaScript
 - 🤔 I’m looking for help with: see above
