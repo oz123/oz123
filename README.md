@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning:
  * OCaml
  * Svelte
-- 👯 I’m looking to collaborate onÖ
+- 👯 I’m looking to collaborate on:
  * You can hire me for projects in Python\Go\JavaScript
 - 🤔 I’m looking for help with: see above
 - 💬 Ask me about: Python
