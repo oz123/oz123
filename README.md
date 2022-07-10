@@ -5,7 +5,8 @@
  1. OCaml
  1. Svelte
 - 👯 I’m looking to collaborate on:
- * You can hire me for projects in Python\Go\JavaScript
+ * ~~You can hire me for projects in Python\Go\JavaScript~~
+ I am currently working full time for SpectroCloud.
 - 🤔 I’m looking for help with: see above
 - 💬 Ask me about: Python
 - 📫 How to reach me: oz that curly sign tiram.it
