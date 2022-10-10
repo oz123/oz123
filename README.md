@@ -18,6 +18,8 @@
 
 Some interesting projects I worked on lately:
 
+Checkout my [little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators).
+
 <a href="https://github.com/pypa/pipenv">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pypa&repo=pipenv" />
 </a>
