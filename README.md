@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 
 
-- 🔭 I’m currently working on: Launching a SaaS
-- 🌱 I’m currently learning:
+-  I’m currently working at SpectroCloud.
+-  I’m currently learning:
  1. OCaml
  1. Svelte
-- 👯 I’m looking to collaborate on:
+-  I’m looking to collaborate on:
  * ~~You can hire me for projects in Python\Go\JavaScript~~
  I am currently working full time for SpectroCloud.
-- 🤔 I’m looking for help with: see above
-- 💬 Ask me about: Python
-- 📫 How to reach me: oz that curly sign tiram.it
-- 😄 Pronouns: He
+-  I’m looking for help with: see above
+-  Ask me about: Python
+-  How to reach me: oz that curly sign tiram.it
+-  Pronouns: He
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oz123&hide=html,css,tex,pascal&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
