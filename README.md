@@ -1,14 +1,11 @@
 ### Hi there 
 
 -  I’m currently working at SpectroCloud.
--  I’m currently learning:
- 1. OCaml
- 1. Svelte
+- Checkout my [little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators)
 -  I’m looking to collaborate on:
  * ~~You can hire me for projects in Python\Go\JavaScript~~
- I am currently working full time for SpectroCloud.
 -  I’m looking for help with: see above
--  Ask me about: Python
+-  Ask me about: Python, Kubernetes and Golang
 -  How to reach me: oz that curly sign tiram.it
 -  Pronouns: He
 
@@ -18,7 +15,6 @@
 
 Some interesting projects I worked on lately:
 
-Checkout my [little book of Kubernetes Operators](https://leanpub.com/the-little-book-of-kubernetes-operators).
 
 <a href="https://github.com/pypa/pipenv">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pypa&repo=pipenv" />
